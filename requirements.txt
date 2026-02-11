@@ -1,0 +1,2 @@
+# aavo 루트 공통 의존성 (선택)
+# backend/frontend 각각 requirements.txt 사용
