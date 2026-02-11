@@ -68,7 +68,7 @@ def on_user_submit(user_message: str):
 
 
 def main():
-    st.set_page_config(page_title="aavo", layout="wide")
+    st.set_page_config(page_title="AI Apartment Value Oracle", layout="wide")
     ensure_session_state()
 
     render_sidebar()
